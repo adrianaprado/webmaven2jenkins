@@ -1,0 +1,3 @@
+/target/
+webmaven2/.settings/*
+.classpath
